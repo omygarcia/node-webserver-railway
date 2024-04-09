@@ -1,0 +1,4 @@
+node_modules/
+.env
+public/template/*
+app_old.js
